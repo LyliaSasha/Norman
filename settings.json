@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"msg_connected": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": "#",
+	"language":"eng",
+	"ownerNumberr": "62887433094409",
+	"ownername": "Mrs Lylia Official",
+	"botname":"Alphabot",
+	"thumb":"thumbnorman.jpg",
+	"thumbnail":"thumbnorman2.jpg",
+	"fakethumb":"thumbnorman.jpg", 
+	"donasi":"donasi.jpg",
+	"captionpay":"Scan untuk melakukan pembayaran",
+	"fake": " 「  NORMANBOTZ  」\nCreated By Mrs LyliaChan"
+}
