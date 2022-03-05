@@ -6,11 +6,11 @@
 hai guys saya akan bagi2 sc lagi yang via github yo dan heroku untuk ffmpeg heroku di sini jangan nanya lagi klo nanya lagi akan block ya
 btw untuk heroku
 
-
+```
 > heroku/nodejs
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
+```
 
 </p> 
 
@@ -24,7 +24,7 @@ Udh no enc masih gak subrek? Parah lu klo gak subrek gak akan bagi sc lagi! Untu
 
 </p> 
 
-## GROUP SUPPORT
+## ```GROUP SUPPORT```
 
 - [`Grup1`]( https://chat.whatsapp.com/GStM13Ktxr085ubmy1EMKN)
 - [`Grup2`]( https://chat.whatsapp.com/FU9uGSY7ODW9spPWCJFmEP)
